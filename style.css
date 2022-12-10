@@ -1,0 +1,16 @@
+nav {
+    background-color: #007bff;
+}
+#weatherIcon {
+    width: 100px;
+    height: 100px;
+}
+
+li {
+    cursor: pointer;
+}
+
+.card {
+    width: 150px;
+    margin-bottom: 20px;
+}
