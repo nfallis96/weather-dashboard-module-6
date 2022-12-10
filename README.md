@@ -12,12 +12,12 @@
 
 ## DEMO of Application
 Demo of Application
-![Demo]()
+![Demo](weather-dashboard.mov)
 
 
 ## Screenshots - Code examples
 Screen shot of application
-![Code-Quiz Screenshot](code-quiz.png)
+![weather-dashboard-screenshot](weather-dashboard.png)
 
  for the multiple choices of the quiz
 ```js  
