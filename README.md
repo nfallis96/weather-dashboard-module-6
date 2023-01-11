@@ -19,16 +19,7 @@ Demo of Application
 Screen shot of application
 ![weather-dashboard-screenshot](weather-dashboard.png)
 
- for the multiple choices of the quiz
-```js  
-    displayChoices.forEach(function (newEl) {
-        var li = document.createElement("li");
-        li.textContent = newEl;
-        quizQuestion.appendChild(createList);
-        createList.appendChild(li);
-        li.addEventListener("click", (compareAnswer));
-    })
- ```
+for
 
 ## Technologies Used 
 ![html badge](https://img.shields.io/badge/language-html-red)
