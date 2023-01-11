@@ -3,7 +3,7 @@ var input = document.getElementById("city-input");
 var search = document.getElementById("search-button");
 var clear = document.getElementById("clear-history");
 var cityName = document.getElementById("city-name");
-var currentPic = document.getElementById("current-pic");
+var currentPic = document.getElementById("current-pic");
 var currentTemp = document.getElementById("temperature");
 var currentHumidity = document.getElementById("humidity");
 var currentWind = document.getElementById("wind-speed");
@@ -51,13 +51,9 @@ function weatherData(city) {
         })
 }
 
+    
+        
 
-
-
-
-            console.log(data)
-        })
-}
 
 search.addEventListener("click", function () {
     const searchedCity = input.value;
@@ -89,5 +85,5 @@ function renderHistory() {
 
 renderHistory();
 
-})
+
 
