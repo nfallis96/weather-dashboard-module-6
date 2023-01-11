@@ -20,9 +20,6 @@ Screen shot of application
 ![weather-dashboard-screenshot](weather-dashboard.png)
 
 
-```js  
-
- ```
 
 ## Technologies Used 
 ![html badge](https://img.shields.io/badge/language-html-red)
