@@ -19,7 +19,7 @@ Demo of Application
 Screen shot of application
 ![weather-dashboard-screenshot](weather-dashboard.png)
 
-for
+
 
 ## Technologies Used 
 ![html badge](https://img.shields.io/badge/language-html-red)
@@ -33,5 +33,3 @@ for
 ## Links
 link to github: https://github.com/nfallis96
 link to repository: https://nfallis96.github.io/weather-dashboard-module-6/
-
-
